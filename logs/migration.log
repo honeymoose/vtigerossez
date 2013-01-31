@@ -1,0 +1,11 @@
+12/08/2012 07:43:15 DEBUG [4308] MIGRATION -  
+
+DB Changes from 5.4.0RC to 5.4.0 -------- Starts 
+
+
+12/08/2012 07:43:15 DEBUG [4308] MIGRATION -  
+
+DB Changes from 5.4.0RC to 5.4.0 -------- Ends 
+
+
+12/08/2012 07:43:32 DEBUG [4308] MIGRATION -  Query Success ==> UPDATE vtiger_version SET old_version='5.4.0 RC',current_version='5.4.0'
